@@ -1,5 +1,9 @@
 # Gen UUID
 
+[![PHP Version][https://img.shields.io/packagist/php-v/ijvo/gen-uuid?style=flat-square](https://packagist.org/packages/ijvo/gen-uuid)
+
+
+
 [![Source Code][badge-source]][source] 
 [![Latest Version][badge-release]][release] 
 [![Software License][badge-license]][license] 
