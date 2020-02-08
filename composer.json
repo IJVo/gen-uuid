@@ -1,0 +1,23 @@
+{
+	"name": "ijvo/gen-uuid",
+	"description": "Generation attempt UUID.",
+	"type": "project",
+	"license": "MIT",
+		"authors": [
+		{
+			"name": "Ing. Jaroslav Vaculik -IJVo",
+			"email": "ijvo.ijvo@gmail.com"
+		}
+	],
+	"require": {
+		"php": ">=7.0",
+		"ramsey/uuid": "^3.9"
+	},
+	"require-dev": {
+	},
+	"autoload": {
+		"classmap": ["app/Booting.php"]
+	},
+	"minimum-stability": "dev",
+	"prefer-stable": true
+}
