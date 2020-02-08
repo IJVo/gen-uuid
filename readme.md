@@ -1,13 +1,13 @@
 Gen UUID
 ========
 
-[![Source Code][badge-source]][source]
-[![Latest Version][badge-release]][release]
-[![Software License][badge-license]][license]
-[![PHP Version][badge-php]][php]
-[![Build Status][badge-build]][build]
-[![Coverage Status][badge-coverage]][coverage]
-[![Total Downloads][badge-downloads]][downloads]
+[![Source Code][badge-source]][source] 
+[![Latest Version][badge-release]][release] 
+[![Software License][badge-license]][license] 
+[![PHP Version][badge-php]][php] 
+[![Build Status][badge-build]][build] 
+[![Coverage Status][badge-coverage]][coverage] 
+[![Total Downloads][badge-downloads]][downloads] 
 
 
 Generation attempt UUID.
