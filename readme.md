@@ -1,8 +1,8 @@
 # Gen UUID
 
 [![PHP Version](https://img.shields.io/packagist/php-v/ijvo/gen-uuid?style=flat-square)](https://packagist.org/packages/ijvo/gen-uuid)
-[![Licence (Github)](https://img.shields.io/github/license/IJVo/gen-uuid?style=flat-square)](https://packagist.org/packages/ijvo/gen-uuid)
-[![Licence (Packagist)](URL)](https://packagist.org/packages/ijvo/gen-uuid)
+[![LicenceG](https://img.shields.io/github/license/IJVo/gen-uuid?style=flat-square)](https://packagist.org/packages/ijvo/gen-uuid)
+[![LicenceP](https://img.shields.io/packagist/l/ijvo/gen-uuid?style=flat-square)](https://packagist.org/packages/ijvo/gen-uuid)
 
 [![XXX     ](URL    )](https://packagist.org/packages/ijvo/gen-uuid)
 
