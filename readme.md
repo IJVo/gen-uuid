@@ -1,6 +1,6 @@
 # Gen UUID
 
-[![PHP Version][https://img.shields.io/packagist/php-v/ijvo/gen-uuid?style=flat-square](https://packagist.org/packages/ijvo/gen-uuid)
+[![PHP Version][https://img.shields.io/packagist/php-v/ijvo/gen-uuid?style=flat-square]](https://packagist.org/packages/ijvo/gen-uuid)
 
 
 
