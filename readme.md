@@ -1,5 +1,4 @@
-Gen UUID
-========
+# Gen UUID
 
 [![Source Code][badge-source]][source] 
 [![Latest Version][badge-release]][release] 
